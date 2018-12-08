@@ -81,7 +81,7 @@
 
 		<div class="top-left links">
 			<a class="navbar-brand" href="{{ url('/') }}">
-				<img src="/img/anchor.png" class="css-class" alt="logo">
+				<img src="img/anchor.png" class="css-class" alt="logo">
 
 				{{--{{ config('app.name', 'Laravel') }}--}}
 			</a>
